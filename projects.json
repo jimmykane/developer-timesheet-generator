@@ -1,0 +1,14 @@
+{
+    "ProjectA": {
+        "src": "/Users/projects/projectA/",
+        "total_hours": 16
+    },
+   "ProjectB": {
+        "src": "/Users/projects/projectB/",
+        "total_hours": 30
+    },
+    "ProjectC": {
+        "src": "/Users/projects/projectC/",
+        "total_hours": 8
+    }
+}
